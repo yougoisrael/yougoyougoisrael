@@ -1,6 +1,6 @@
 {
   "id": "com.yougo.israel",
-  "name": "Yougo — توصيל טעام",
+  "name": "Yougo — توصيל طעام",
   "short_name": "Yougo",
   "description": "Yougo - توصيل طعام سريع في منطقة الجليل",
   "start_url": "/",
@@ -46,18 +46,6 @@
       "type": "image/png",
       "form_factor": "narrow",
       "label": "מעקב הזמנה"
-    }
-  ],
-  "shortcuts": [
-    {
-      "name": "הזמן עכשיו",
-      "url": "/",
-      "description": "פתח את רשימת המסעדות"
-    },
-    {
-      "name": "ההזמנות שלי",
-      "url": "/#/orders",
-      "description": "צפה בהזמנות"
     }
   ]
 }
