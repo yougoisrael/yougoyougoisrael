@@ -1,6 +1,6 @@
 {
   "id": "com.yougo.israel",
-  "name": "Yougo — توصيל طעام",
+  "name": "Yougo — توصيل طعام",
   "short_name": "Yougo",
   "description": "Yougo - توصيل طعام سريع في منطقة الجليل",
   "start_url": "/",
@@ -13,39 +13,8 @@
   "dir": "rtl",
   "categories": ["food", "shopping"],
   "icons": [
-    {
-      "src": "/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "/icon-maskable-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "/screenshot-1.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "רשימת מסעדות"
-    },
-    {
-      "src": "/screenshot-2.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "מעקב הזמנה"
-    }
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
