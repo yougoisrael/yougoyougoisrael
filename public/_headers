@@ -1,21 +1,8 @@
-/icon-192.png
-  Content-Type: image/png
-  Cache-Control: public, max-age=86400
-
-/icon-512.png
-  Content-Type: image/png
-  Cache-Control: public, max-age=86400
-
-/icon-maskable-512.png
-  Content-Type: image/png
-  Cache-Control: public, max-age=86400
-
-/manifest.json
-  Content-Type: application/manifest+json
-  Cache-Control: no-cache
-
-/screenshot-1.png
-  Content-Type: image/png
-
-/screenshot-2.png
-  Content-Type: image/png
+/icon-192.png /icon-192.png 200
+/icon-512.png /icon-512.png 200
+/icon-maskable-512.png /icon-maskable-512.png 200
+/manifest.json /manifest.json 200
+/sw.js /sw.js 200
+/screenshot-1.png /screenshot-1.png 200
+/screenshot-2.png /screenshot-2.png 200
+/* /index.html 200
