@@ -1,0 +1,25 @@
+/manifest.json
+  Content-Type: application/manifest+json; charset=utf-8
+  Cache-Control: no-cache
+
+/icon-192.png
+  Content-Type: image/png
+  Cache-Control: public, max-age=86400
+
+/icon-512.png
+  Content-Type: image/png
+  Cache-Control: public, max-age=86400
+
+/icon-maskable-512.png
+  Content-Type: image/png
+  Cache-Control: public, max-age=86400
+
+/screenshot-1.png
+  Content-Type: image/png
+
+/screenshot-2.png
+  Content-Type: image/png
+
+/sw.js
+  Content-Type: application/javascript
+  Cache-Control: no-cache
